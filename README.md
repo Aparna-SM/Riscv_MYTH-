@@ -82,7 +82,7 @@ DAY-3
 
 
 
-Get started with Makerchip:
+Get started with Makerchip and explore the various examples and tutorials 
 
 ![Makerchip lab steps](https://github.com/user-attachments/assets/f231be70-e509-4db4-b539-190af5cf3579)
 
@@ -92,23 +92,30 @@ Get started with Makerchip:
 
 ![makerchip2](https://github.com/user-attachments/assets/ec907145-bb74-43d7-9640-945ff7d4c0c3)
 
-
+Addition
 ![in1+in2](https://github.com/user-attachments/assets/bc807e73-9e7c-47de-b229-af121bb85106)
 
-
+Using && 
 ![Screenshot 2025-03-08 200858](https://github.com/user-attachments/assets/5d6ba0bc-a8a5-4e5b-b4d2-5fbd62b884a6)
 
-
+Implementation of inverter 
 ![inverter](https://github.com/user-attachments/assets/8949ee5a-a4fe-4d4e-acbd-02a80ace8763)
 
-
+Implementation of MUX
 ![mux](https://github.com/user-attachments/assets/602b8db6-2dd7-4cf9-ad1d-349a231966f5)
 
-
+Implementation of MUX using vectors 
 ![muxvector](https://github.com/user-attachments/assets/7d5a841a-957a-4c5a-803d-b3721a37f925)
 
-
+Pythagoras Theorem 
 ![pipeline-pythagoras](https://github.com/user-attachments/assets/cfc69d85-6d30-4211-a406-5eb9bd507f32)
+
+Calculator 
+
+![image](https://github.com/user-attachments/assets/3ef97353-dd1b-4527-a97c-116931d12ed7)
+
+
+
 
 
 
