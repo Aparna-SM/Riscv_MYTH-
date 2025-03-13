@@ -107,12 +107,16 @@ Implementation of MUX
 Implementation of MUX using vectors 
 ![muxvector](https://github.com/user-attachments/assets/7d5a841a-957a-4c5a-803d-b3721a37f925)
 
-Pythagoras Theorem 
-![pipeline-pythagoras](https://github.com/user-attachments/assets/cfc69d85-6d30-4211-a406-5eb9bd507f32)
 
 Calculator 
 
 ![image](https://github.com/user-attachments/assets/3ef97353-dd1b-4527-a97c-116931d12ed7)
+
+
+
+Pythagoras Theorem 
+![pipeline-pythagoras](https://github.com/user-attachments/assets/cfc69d85-6d30-4211-a406-5eb9bd507f32)
+
 
 
 
