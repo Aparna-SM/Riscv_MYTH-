@@ -78,6 +78,42 @@ LAB to rewrite C program using ASM language
 
 
 
+DAY-3
+
+
+
+Get started with Makerchip:
+
+![Makerchip lab steps](https://github.com/user-attachments/assets/f231be70-e509-4db4-b539-190af5cf3579)
+
+
+![makerchip1](https://github.com/user-attachments/assets/a06adf46-51ae-4d98-ae8f-9dbb15f6fa90)
+
+
+![makerchip2](https://github.com/user-attachments/assets/ec907145-bb74-43d7-9640-945ff7d4c0c3)
+
+
+![in1+in2](https://github.com/user-attachments/assets/bc807e73-9e7c-47de-b229-af121bb85106)
+
+
+![Screenshot 2025-03-08 200858](https://github.com/user-attachments/assets/5d6ba0bc-a8a5-4e5b-b4d2-5fbd62b884a6)
+
+
+![inverter](https://github.com/user-attachments/assets/8949ee5a-a4fe-4d4e-acbd-02a80ace8763)
+
+
+![mux](https://github.com/user-attachments/assets/602b8db6-2dd7-4cf9-ad1d-349a231966f5)
+
+
+![muxvector](https://github.com/user-attachments/assets/7d5a841a-957a-4c5a-803d-b3721a37f925)
+
+
+![pipeline-pythagoras](https://github.com/user-attachments/assets/cfc69d85-6d30-4211-a406-5eb9bd507f32)
+
+
+
+
+
 
 
 
