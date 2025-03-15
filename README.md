@@ -121,7 +121,7 @@ DAY-4
 
 This is the architecture of RISC-V CPU.
 The program counter is our pointer , which is connected to the instruction memory that holds the instruction that has to be executed. Next the instruction must be decoded which is done by the decoder.
-We have two source registers RFRD and ALU is the calculator/ any logical unit that we have designed.We have Dmem (memory) that stores or loads the data.
+We have two source registers RFRd (Register File Read) and ALU is the calculator/ any logical unit that we have designed.We have Dmem (memory) that stores or loads the data.
 
 
 
@@ -159,6 +159,26 @@ For Immediate type
 
 For other types
 ![image](https://github.com/user-attachments/assets/51b25f95-3000-4ee3-88ed-f660b80db33f)
+
+
+Using WHEN condition (applicable for only R-type, S-type and B-type
+![image](https://github.com/user-attachments/assets/ea2dd249-558b-40a4-8010-40fa7debd901)
+
+
+Now we need to decode the instructions 
+* RV32I base instruction set
+NOTE: "`BOGUS_USE" is used to avoid warings in log which are created when other signals that are present are not used (it is a system verilog macro) 
+![image](https://github.com/user-attachments/assets/9de092ea-b0b1-4927-90d0-8d05f52ea0d5)
+
+
+
+REGISTER FILE READ
+
+
+
+
+
+
 
 
 
