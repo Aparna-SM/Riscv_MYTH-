@@ -227,6 +227,24 @@ Pipelining of the CPU core allows easy retiming and reduces functional bugs. Pip
 ![image](https://github.com/user-attachments/assets/9fb814e0-9fc6-48c9-92b1-01de59627f6b)
 
 
+Waterfall Logic 
+![image](https://github.com/user-attachments/assets/95696702-fd87-4a9a-a8fc-84b27e3aed8c)
+
+
+
+Disadvantage of Waterfall Logic
+
+Hazards - The problems with the timeing i.e the branch control comes at @3 and it has to be connected to the pc which is 2 cycles earlier . And the read operation can be performed only after the write operation.
+![image](https://github.com/user-attachments/assets/0b43371a-45f2-4139-a645-1fdfa73a8592)
+![image](https://github.com/user-attachments/assets/3d46d910-4730-4167-a726-e68c3c069ad1)
+![image](https://github.com/user-attachments/assets/07fa8b1f-5694-4752-9f9a-813409a15331)
+
+![image](https://github.com/user-attachments/assets/d3fd8ae0-45f7-4262-a606-c0635d168a18)
+
+
+
+
+
 
 
 
