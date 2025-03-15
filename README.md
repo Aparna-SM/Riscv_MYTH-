@@ -240,6 +240,41 @@ Hazards - The problems with the timeing i.e the branch control comes at @3 and i
 ![image](https://github.com/user-attachments/assets/07fa8b1f-5694-4752-9f9a-813409a15331)
 
 ![image](https://github.com/user-attachments/assets/d3fd8ae0-45f7-4262-a606-c0635d168a18)
+![image](https://github.com/user-attachments/assets/3de0cbde-43bc-41e1-88da-381d351d516f)
+
+
+Partition Logic
+![image](https://github.com/user-attachments/assets/117e254b-c2ef-4062-816b-41a23a9b00e9)
+
+REGISTER FILE BYPASS used to Address Read-After-Write Hazard
+![image](https://github.com/user-attachments/assets/0fa65b4b-028a-433e-a560-bf12bfaacb7c)
+![image](https://github.com/user-attachments/assets/1ab70274-f90f-4acb-8aa6-a95beeb54dcb)
+
+BRANCHES
+
+These two cycles cannot be avoided 
+![image](https://github.com/user-attachments/assets/602f13fa-3e9a-4c1d-a396-601b4e3346a3)
+![image](https://github.com/user-attachments/assets/f32f9b71-774f-43f2-9918-40d2a47e5850)
+
+Logic for Branch behaviour 
+![image](https://github.com/user-attachments/assets/00bef646-e804-48d1-bc3a-d2779a6c3023)
+
+
+LOAD and STORE
+
+The load and store option is also included in RISCV for which a one read or write data memory is added. Similar to branch instruction the load also has a 3 cycle delay.
+![image](https://github.com/user-attachments/assets/3a253e23-6f55-4d36-8c4f-a77061a9b683)
+![image](https://github.com/user-attachments/assets/3cdbb7db-f9ad-4751-85ae-ef77d0f60cba)
+
+
+
+WATERFALL DIAG FOR LOAD AND STORE
+
+![image](https://github.com/user-attachments/assets/49652b89-11e0-4fd6-a224-9f001f89c734)
+
+
+
+
 
 
 
