@@ -122,7 +122,44 @@ DAY-4
 This is the architecture of RISC-V CPU.
 The program counter is our pointer , which is connected to the instruction memory that holds the instruction that has to be executed. Next the instruction must be decoded which is done by the decoder.
 We have two source registers RFRD and ALU is the calculator/ any logical unit that we have designed.We have Dmem (memory) that stores or loads the data.
+
+
+
+
 ![Screenshot 2025-03-15 175652](https://github.com/user-attachments/assets/f33c8518-8e81-49eb-832c-54d2297f877b)
+
+
+
+
+
+During the fetch stage, processors fetches the instruction from the memory to the address pointed by the program counter. The program counters holds the address of the next stage, which is after 4 cycles and the instruction memory holds the set of instruction to be executed.
+
+![image](https://github.com/user-attachments/assets/7b24f4f1-4242-43c2-99b9-84275b802ddb)
+![image](https://github.com/user-attachments/assets/48a328de-c82c-4db0-beff-5f0632616f34)
+
+
+
+
+
+There are SIX instruction types in RISC-V architecture :
+* Register type (R)
+* Immediate type (I)
+* Store type (S)
+* Branch type (B)
+* Upper immediate type (U)
+* Jump type (J)
+
+
+![image](https://github.com/user-attachments/assets/df75e986-42d0-455d-ba14-d1a15e41713d)
+
+
+For Immediate type
+![image](https://github.com/user-attachments/assets/9d04c8b8-25b4-4ab9-b049-7156e3d2fadd)
+
+
+For other types
+![image](https://github.com/user-attachments/assets/51b25f95-3000-4ee3-88ed-f660b80db33f)
+
 
 
 
