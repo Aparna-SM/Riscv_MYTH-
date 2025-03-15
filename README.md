@@ -272,6 +272,29 @@ WATERFALL DIAG FOR LOAD AND STORE
 
 ![image](https://github.com/user-attachments/assets/49652b89-11e0-4fd6-a224-9f001f89c734)
 
+REDIRECT LOADS
+![image](https://github.com/user-attachments/assets/b5c58842-dcc7-471c-a593-fd6bf1819c6a)
+
+
+LOAD DATA
+![image](https://github.com/user-attachments/assets/114996ad-a42f-496a-ad99-9d882d20a18b)
+![image](https://github.com/user-attachments/assets/4554c8dc-7543-4dd5-9f9a-b6315b4d283c)
+
+
+
+JUMPS- They are unconditional branches 
+![image](https://github.com/user-attachments/assets/bcba259b-7b9f-4fa9-96ba-33d47818b32e)
+
+
+Implementing Jumps
+![image](https://github.com/user-attachments/assets/e29a0d88-7cb9-45c8-a4f7-36b77ec29436)
+
+
+
+
+
+
+
 
 
 
