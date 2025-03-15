@@ -117,7 +117,12 @@ Calculator
 Pythagoras Theorem 
 ![pipeline-pythagoras](https://github.com/user-attachments/assets/cfc69d85-6d30-4211-a406-5eb9bd507f32)
 
+DAY-4
 
+This is the architecture of RISC-V CPU.
+The program counter is our pointer , which is connected to the instruction memory that holds the instruction that has to be executed. Next the instruction must be decoded which is done by the decoder.
+We have two source registers RFRD and ALU is the calculator/ any logical unit that we have designed.We have Dmem (memory) that stores or loads the data.
+![Screenshot 2025-03-15 175652](https://github.com/user-attachments/assets/f33c8518-8e81-49eb-832c-54d2297f877b)
 
 
 
