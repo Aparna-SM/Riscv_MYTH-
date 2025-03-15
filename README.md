@@ -219,7 +219,16 @@ TESTBENCH
 
 DAY-5
 
-PIPELINING 
+PIPELINING :
+
+
+Pipelining of the CPU core allows easy retiming and reduces functional bugs. Pipelining allows faster computaion.In TL verilog the advantage is defining pipelines in systematic order is not necessary. 
+
+![image](https://github.com/user-attachments/assets/9fb814e0-9fc6-48c9-92b1-01de59627f6b)
+
+
+
+
 
 
 
