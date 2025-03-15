@@ -174,6 +174,62 @@ NOTE: "`BOGUS_USE" is used to avoid warings in log which are created when other 
 
 REGISTER FILE READ
 
+![image](https://github.com/user-attachments/assets/c6a9dbd5-9174-446e-b6ab-ef9c50f1bef8)
+![image](https://github.com/user-attachments/assets/a7a2fc3c-aa53-4c90-b5a3-1257a0c030bf)
+
+The signals (outputs) coming out of the register files are given as inputs to the Arithmetic Logic Unit(ALU)
+![image](https://github.com/user-attachments/assets/2b87f159-4681-42c6-8eb3-d0f2489ddc98)
+
+
+ALU
+
+![image](https://github.com/user-attachments/assets/70fd09df-da80-491b-9d67-da78d570d37c)
+
+
+REGISTER FILE WRITE 
+
+![image](https://github.com/user-attachments/assets/c405b776-923e-41fe-a9ed-13a8866e76b4)
+
+![image](https://github.com/user-attachments/assets/24721461-ec4f-4afd-bc00-e33ac529171b)
+
+
+ARRAYS
+
+![image](https://github.com/user-attachments/assets/8269662f-04c3-43d3-947c-56cdff820653)
+
+PIPELINED LOGIC OF ARRAYS
+
+* RF Wr updates the values which is given as the input to RF Rd
+![image](https://github.com/user-attachments/assets/fb4dca18-74f5-4e2d-b891-c9d4f529788d)
+
+
+BRANCHES
+
+RISC-V uses Conditional branches i.e a particular branch is taken when the condition is met
+
+![image](https://github.com/user-attachments/assets/7a64bb03-c5ac-48f0-88da-2c46f49654be)
+![image](https://github.com/user-attachments/assets/82d13b6a-cff8-4954-9b18-b9dc4a2a472e)
+
+
+TESTBENCH
+
+![image](https://github.com/user-attachments/assets/fdc2bf84-2e4e-4736-9506-f49e620015c6)
+
+
+
+DAY-5
+
+PIPELINING 
+
+
+
+
+
+
+
+
+
+
 
 
 
